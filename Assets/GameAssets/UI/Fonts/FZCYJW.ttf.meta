@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 15d5e63626e164443b45997045454b23
+timeCreated: 1550123725
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZCuYuan-M03S
+  fontNames:
+  - FZCuYuan-M03S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
